@@ -1,0 +1,87 @@
+/*
+ Theme Name: 08 - My Child Theme
+ Description: The custom theme My Child Theme using the parent theme Twenty Seventeen.
+ Author: Tony Evans
+ Author URI: http://localhost/MyWordpress01/
+ Template: twentyseventeen
+ Version: 1.0.7
+ */
+
+.site-content{
+	
+	padding:0px;
+	  display:inline;
+	  border: gray;
+	  border-radius: 20%
+}
+
+.site-title {
+	text-align:center;
+    font-size: 15.75em;
+    line-height: 1.25;
+}
+
+.site-description{
+    color: #fff;
+    opacity: 0.8;
+	font-size: 0.0em;
+}
+
+
+.my_new_widget_area{
+	background-color: #f44336;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+
+	display:flex;
+	background-color:lightblue;
+	font-size: 20px;
+	
+}
+
+#secondary{
+		text-align:center;
+	background:lightblue;	
+	border: 1
+}
+
+.wp-block-calendar{
+	
+	background:red;
+}
+
+.menu-my-menju-container{
+	text-align:center;
+  right: 30px;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+	background-color: #f44336;
+  
+}
+
+.menu-my-menju-container:hover{
+	background-color: green;
+}
+.menu-my-menju-container:active{
+	background-color: green;
+	
+}
+.menu-item-5{
+	display:inline-block;
+}
+.menu-item a{
+	display:inline-block;
+}
+
+.site-info {
+	 color: #fff;
+    opacity: 0.8;
+	font-size: 0.0em;
+}
+
+opacity: 0.8;font-size: 0.0em;
+}
+}
